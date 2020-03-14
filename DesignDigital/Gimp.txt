@@ -1,0 +1,4 @@
+
+alpha | opacidade | transparência
+
+RGBA = Red Green Blue Alpha
